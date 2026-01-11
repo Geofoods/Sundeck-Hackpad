@@ -27,10 +27,10 @@ Here is a picture of my schematic made in KiCad. There are six customizable butt
     </td>
   </tr>
 </table>
-## CAD Model:
+## CAD Model
 Here is the CAD made in Fusion 360. It should all fit together with 4x M3x5mx4mm heatset inserts and 4x M3x16mm screws
 <img width="1916" height="786" alt="Screenshot 2026-01-10 164519 - Copy" src="https://github.com/user-attachments/assets/f512a5e3-21dc-49ff-b8c1-cbb3598273b0" />
-## BOM:
+## BOM
 - 1x Seeed XIAO RP2040
 - 2x SK6812 MINI-E LEDs
 - 4x M3x16mm screws
