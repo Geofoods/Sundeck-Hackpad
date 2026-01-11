@@ -36,6 +36,8 @@ Here is a picture of my schematic made in KiCad. There are six customizable butt
 Here is the CAD made in Fusion 360. It should all fit together with 4x M3x5mx4mm heatset inserts and 4x M3x16mm screws.
 
 <img width="1916" height="786" alt="Screenshot 2026-01-10 164519 - Copy" src="https://github.com/user-attachments/assets/f512a5e3-21dc-49ff-b8c1-cbb3598273b0" />
+<img width="1919" height="784" alt="Screenshot 2026-01-11 095459" src="https://github.com/user-attachments/assets/cfc465eb-466b-4eb4-938a-e97a9c4ee482" />
+
 
 ## BOM
 
