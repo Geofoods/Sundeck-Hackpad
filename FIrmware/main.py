@@ -20,7 +20,6 @@ encoder_handler.pins = (
     (board.GP26, board.GP28),
 )
 
-# Map: (CCW, CW)  -> adjust if direction feels backwards
 encoder_handler.map = (
     ((KC.VOLD, KC.VOLU),),
 )
