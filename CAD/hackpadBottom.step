@@ -9,8 +9,8 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'Hackpad.step',
-/* time_stamp */ '2026-01-10T16:46:42-05:00',
+/* name */ 'hackpadBottom.step',
+/* time_stamp */ '2026-01-19T00:06:00-05:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.1',
