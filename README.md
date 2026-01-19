@@ -1,14 +1,14 @@
 # Sundeck-Hackpad
 
 ## Features
-- 6 keys
+- 5 keys
   - Play/Pause button
   - Open Spotify
   - Take a Screenshot
-  - Open VSCode
   - Open New Tab
   - Switch Windows
 - Two Mini LEDs
+- Rotary Encoder Switch that controls volume and mutes/unmutes
 - KMK firmware
 - Stands itself up for more ergonomic use
 
@@ -46,5 +46,5 @@ Here is the CAD made in Fusion 360. It should all fit together with 4x M3x5mx4mm
 - 4x M3x16mm screws
 - 1x Case (2 3D printed parts)
 - 6x Blank DSA keycaps (White)
-- 8x Through-hole 1N4148 Diodes (2 extra just in case)
+- 1x EC11 Rotary encoders
 - 4x M3x5mx4mm heatset inserts
