@@ -11,11 +11,9 @@ keyboard = KMKKeyboard()
 macros = Macros()
 keyboard.modules.append(macros)
 
-# --- Rotary encoder setup (A=GP26, B=GP28) ---
 encoder_handler = EncoderHandler()
 keyboard.modules.append(encoder_handler)
 
-# One encoder: (A, B)
 encoder_handler.pins = (
     (board.GP26, board.GP28),
 )
@@ -24,7 +22,6 @@ encoder_handler.map = (
     ((KC.VOLD, KC.VOLU),),
 )
 
-# --- Buttons (your existing 6 digital pins) ---
 PINS = [board.D3, board.D4, board.D2, board.D1, board.D5, board.D6]
 
 keyboard.matrix = KeysScanner(
@@ -32,7 +29,6 @@ keyboard.matrix = KeysScanner(
     value_when_pressed=False,
 )
 
-# Define macros
 macros.add_record(KC.MACRO_1, [
     Press(KC.LGUI), Tap(KC.S), Release(KC.LGUI),
     Tap(KC.S), Tap(KC.P), Tap(KC.O), Tap(KC.T),
