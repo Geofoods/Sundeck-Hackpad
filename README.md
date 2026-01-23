@@ -1,6 +1,6 @@
 # Sundeck-Hackpad
 
-<img width="852" height="762" alt="Screenshot 2026-01-19 055008" src="https://github.com/user-attachments/assets/e2f06365-9ad8-4dc4-8f60-6ef0167adc60" />
+<img width="882" height="674" alt="Screenshot 2026-01-23 180444" src="https://github.com/user-attachments/assets/8bcf712b-6d28-477e-af60-f517004fa2bb" />
 
 ## Features
 - 5 keys
