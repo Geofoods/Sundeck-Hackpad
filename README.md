@@ -1,5 +1,7 @@
 # Sundeck-Hackpad
 
+Hackpad that I made with specific things to match my preferences.
+
 <img width="882" height="674" alt="Screenshot 2026-01-23 180444" src="https://github.com/user-attachments/assets/8bcf712b-6d28-477e-af60-f517004fa2bb" />
 
 ## Features
@@ -39,6 +41,10 @@ Here is the CAD made in Fusion 360. It should all fit together with 4x M3x5mx4mm
 
 <img width="791" height="629" alt="Screenshot 2026-01-19 052230" src="https://github.com/user-attachments/assets/562783a0-5da7-4486-a318-3fe3d9b43d18" />
 <img width="886" height="728" alt="Screenshot 2026-01-19 052303" src="https://github.com/user-attachments/assets/e61e3bf5-1303-4475-ad9e-653dd236c6e2" />
+
+## Why I made the Hackpad
+
+I thought that this project was pretty fun and was actually my first attempt at doing these kind of things (KiCAD, Fusion 360). It's a nice beginner project that is accessible, and I made it into my own with it's own custom properties
 
 ## BOM
 
